@@ -15,22 +15,31 @@
 
 ## ⚖️ 私のスキル
 
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+<table align="center">
+<tr>
+<td width="50%" align="center" valign="top">
 
-## 📊 GitHub Stats
+### 🖥️  **Frontend / Backend**
+<img src="https://skillicons.dev/icons?i=php,laravel,js,ts,react,angular" />
 
-![YoseiIkegami's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YoseiIkegami&show_icons=true&theme=radical&hide_title=true&gist_id=7aa8ceaffe13b280d9120a913870ff06)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YoseiIkegami&layout=compact&theme=radical&gist_id=7aa8ceaffe13b280d9120a913870ff06)
+### ✨  **Design / UI**
+<img src="https://skillicons.dev/icons?i=figma,tailwind" />
 
----
+### 📈  **Database**
+<img src="https://skillicons.dev/icons?i=mysql" />
+
+</td>
+<td width="50%" align="center" valign="top">
+
+### ⚡  **Scripting / Tooling**
+<img src="https://skillicons.dev/icons?i=python,bash" />
+
+### ⚖️  **Dev Tools**
+<img src="https://skillicons.dev/icons?i=vscode,git,github,postman" />
+
+</td>
+</tr>
+</table>
 
 ### 👤 Connect with me:
 メンテナンス中
