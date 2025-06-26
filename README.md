@@ -27,8 +27,8 @@
 
 ## 📊 GitHub Stats
 
-![YoseiIkegami's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YoseiIkegami&show_icons=true&theme=radical&hide_title=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YoseiIkegami&layout=compact&theme=radical)
+![YoseiIkegami's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YoseiIkegami&show_icons=true&theme=radical&hide_title=true&gist_id=7aa8ceaffe13b280d9120a913870ff06)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YoseiIkegami&layout=compact&theme=radical&gist_id=7aa8ceaffe13b280d9120a913870ff06)
 
 ---
 
