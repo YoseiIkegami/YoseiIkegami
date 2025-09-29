@@ -1,42 +1,61 @@
-# 👋 こんにちは、YoseiIkegamiです！
+# 職務経歴書 - 池上 耀星
 
-熊本出身の東京を拠点とする20代のITエンジニアです。
-主に Laravel と JavaScript（React）を用いたバックエンド・フロントエンド開発に携わっています。
-
-## ☕ 経歴
-- 熊本高専で情報工学の基礎を学び、
-- 京都芸術大学ではアート・デザインの視点を習得
-- 現在は東京駅近くの企業でリモート中心のシステムエンジニアとして勤務
-
-## ⚖️ 私のスキル
-
-<table align="center">
-<tr>
-<td width="50%" align="center" valign="top">
-
-### 🖥️  **Frontend / Backend**
-<img src="https://skillicons.dev/icons?i=php,laravel,js,ts,react,angular" />
-
-### ✨  **Design / UI**
-<img src="https://skillicons.dev/icons?i=figma,tailwind" />
-
-### 📈  **Database**
-<img src="https://skillicons.dev/icons?i=mysql" />
-
-</td>
-<td width="50%" align="center" valign="top">
-
-### ⚡  **Scripting / Tooling**
-<img src="https://skillicons.dev/icons?i=python,bash" />
-
-### ⚖️  **Dev Tools**
-<img src="https://skillicons.dev/icons?i=vscode,git,github,postman" />
-
-</td>
-</tr>
-</table>
+## 基本情報
+- 名前：池上 耀星 (Yosei Ikegami)
+- 職種：フロントエンドエンジニア / バックエンドエンジニア（フルスタック寄り）
+- 経験年数：4年（2022年4月〜現在）
+- 現在の所属：株式会社マウントスクエア（2024年7月〜）
+- 出身：熊本
+- 働き方の希望：フルリモート、柔軟に対応できる環境
 
 ---
 
-専門や肩書きにとらわれすぎず、観察と設計を大切にしながら、柔軟にものづくりを続けています。
+## 職務経歴
 
+### 株式会社マウントスクエア（2024年7月〜現在）
+- 受発注システムの新規立ち上げに参画  
+  - Kiro / Cursor を活用した効率的な開発  
+  - CloudWatchを用いたログ調査・運用保守  
+- フロントエンド〜バックエンドを一貫して担当  
+
+### 株式会社ISB（2022年4月〜2024年6月）
+- 大手家電メーカー向け空調制御アプリ「霧ヶ峰」の開発に従事  
+- TypeScript・Angular を用いたフロントエンド開発を担当  
+- UI/UX設計や改善、既存コードのリファクタリング、テスト効率化を推進  
+
+---
+
+## スキルセット
+
+### プログラミング
+- **フロントエンド**：TypeScript, JavaScript, Angular, HTML, CSS  
+- **バックエンド**：PHP (Laravel), Python3  
+- **その他**：Git, GitHub, REST API開発, SQL  
+
+### クラウド / インフラ
+- AWS（CloudWatch, S3, EC2, RDS など基本サービス利用経験）  
+- **AWS Certified Cloud Practitioner**  
+
+### デザイン / クリエイティブ
+- **UI/UX改善**：プロトタイプ作成、ユーザビリティ向上提案  
+- **ツール**：Adobe XD, Figma, Illustrator, Photoshop（基本操作）  
+- **イラスト作成**：資料・デザインに活用可能  
+
+### その他
+- **投資経験**：長年の投資経験を通じ、データ分析・数値に基づく意思決定に強み  
+- **資料作成**：業務報告、改善提案資料の作成が可能  
+
+---
+
+## 強み
+- 実装力（フロント〜バックエンド）とクリエイティブスキルを両立  
+- AWSを活用した開発・運用、ログ調査など保守面も対応可能  
+- プロジェクト推進において、調査・効率化・改善提案を積極的に実施  
+- 柔軟な働き方を希望しつつ、責任感を持ってタスクを完遂  
+
+---
+
+## 興味・関心
+- 広告・エンターテインメント業界での開発  
+- UX改善やデザインとの掛け合わせ  
+- イラスト制作 / サウナ / 投資
