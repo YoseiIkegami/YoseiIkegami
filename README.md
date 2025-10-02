@@ -1,69 +1,72 @@
-# 職務経歴書 - 池上 耀星
+# 👨‍💻 池上 耀星 (Yosei Ikegami)
 
-## 基本情報
-- 名前：池上 耀星 (Yosei Ikegami)
+フルスタックエンジニアとして、フロントエンドからバックエンド、クラウドまで幅広く担当。  
+業務効率化やUI/UX改善、本番リリース後の障害対応まで一貫して経験しています。  
+最近は Cursor を活用しながら効率的な開発に取り組んでいます。  
+
+---
+
+## 📌 基本情報
 - 職種：フロントエンドエンジニア / バックエンドエンジニア（フルスタック寄り）
 - 経験年数：4年（2022年4月〜現在）
-- 現在の所属：株式会社マウントスクエア（2024年7月〜）
-- 出身：熊本
-- 働き方の希望：フルリモート、柔軟に対応できる環境
+- 所属：株式会社マウントスクエア（2024年7月〜）
+- 出身：熊本 → 静岡（新卒配属） → 東京（現職）
 
 ---
 
-## 職務経歴
+## 💼 職務経歴
 
 ### 株式会社マウントスクエア（2024年7月〜現在）
-- **shokuryuプロジェクト**：受発注・在庫管理システム新規立ち上げ・既存改修
-  - Kiro / Cursor を用いた業務自動化・効率化
-  - CloudWatch を使用したログ調査・障害対応、本番運用サポート
-  - 類似修正のグループ化によるテスト効率化
-  - 要件調査からテストまで一貫対応
-  - フロントエンド〜バックエンドを含む全体設計と実装
-- **使用技術**：PHP (Laravel), Python3, MySQL, AWS (CloudWatch, Lambda, API Gateway), Kiro, Cursor
+**shokuryuプロジェクト**（食品物流基幹システム開発）
+- Laravel + PHP による業務システム改修、新規開発  
+- Kiro / Cursor を用いた業務自動化・効率化  
+- CloudWatch によるログ調査・障害対応、本番運用サポート  
+- 類似修正のグループ化によりテスト工数を削減  
+- 要件調査〜テストまで一貫して対応  
+
+**使用技術**  
+`PHP (Laravel)` `Python3` `MySQL` `AWS (CloudWatch, Lambda, API Gateway)` `Kiro` `Cursor`
+
+---
 
 ### 株式会社ISB（2022年4月〜2024年6月）
-- **霧ヶ峰プロジェクト**：空調制御スマホアプリ「MyMu」開発
-  - TypeScript + Angular による UI 実装、コンポーネント設計
-  - Python バックエンド開発（API設計、処理効率化）
-  - Capacitor を使用したクロスプラットフォーム対応（iOS/Android）
-  - AWS 環境設定や運用補助
-  - UI/UX改善やコードリファクタリング、短納期での品質維持
-- **使用技術**：TypeScript, Angular, Python, Capacitor, AWS (Lambda, CloudWatch, API Gateway), Git/GitHub
+**霧ヶ峰プロジェクト**（三菱電機「霧ヶ峰」Remoteアプリ開発）
+- TypeScript + Angular によるフロントエンド実装・UI改善  
+- Python によるバックエンドAPI開発（効率化・設計改善）  
+- Capacitor を用いたクロスプラットフォーム対応（iOS/Android）  
+- AWS環境の設定・運用補助  
+- UI/UX改善、コードリファクタリング、短納期での品質維持  
+
+**使用技術**  
+`TypeScript` `Angular` `Python` `Capacitor` `AWS (Lambda, CloudWatch, API Gateway)` `Git/GitHub`
 
 ---
 
-## スキルセット
-
-### プログラミング
-- **フロントエンド**：TypeScript, JavaScript, Angular, HTML, CSS,
-- **バックエンド**：PHP (Laravel), Python3  
-- **その他**：Git, GitHub, SQL, Postman, C, MATLAB  
-
-### クラウド / インフラ
-- AWS（CloudWatch, EC2, APIGateway, Lamda, DynamoDB, S3 など基本サービス利用経験有り）  
-
-### デザイン / クリエイティブ
-- **UI/UX改善**：プロトタイプ作成、ユーザビリティ向上提案  
-- **ツール**：Adobe XD, Figma, Illustrator, Photoshop（基本操作）  
-- **イラスト作成**：資料・デザインに活用可能  
-
-### その他
-- **投資経験**：長年の投資経験を通じ、データ分析・数値に基づく意思決定に強み  
-- **資料作成**：業務報告、改善提案資料の作成が可能
-- **資格**: 応用情報技術者試験、FP3級、AWS Certified Cloud Practitioner
+## 🛠 スキルセット
+- **フロントエンド**: TypeScript, JavaScript, Angular, HTML, CSS  
+- **バックエンド**: PHP (Laravel), Python3  
+- **クラウド/インフラ**: AWS（CloudWatch, EC2, API Gateway, Lambda, DynamoDB, S3）  
+- **その他**: Git/GitHub, Docker, Swagger, Postman, SQL  
 
 ---
 
-## 強み
-- 実装力（フロント〜バックエンド）とクリエイティブスキルを両立  
-- AWSを活用した開発・運用、ログ調査など保守面も対応可能  
-- プロジェクト推進において、調査・効率化・改善提案を積極的に実施
-- 本番リリース後の障害対応まで一貫して実施経験
-- 新技術にも興味を持って触れている(最近ではCursorを課金して継続利用中)
+## 🎨 その他スキル
+- **UI/UX改善**：プロトタイプ作成、ユーザビリティ提案  
+- **デザインツール**：Adobe XD, Figma, Illustrator, Photoshop  
+- **資格**：応用情報技術者、AWS Certified Cloud Practitioner、FP3級  
+- **投資・数値分析**：長期投資経験を通じた分析力  
 
 ---
 
-## 興味・関心
-- 広告・エンターテインメント業界での開発  
+## 💡 強み
+- フロント〜バックエンドまでの実装力とデザイン感覚の両立  
+- AWSを活用した開発・運用、障害調査の実務経験  
+- 調査・効率化・改善提案を積極的に行い、チーム開発に貢献  
+- 本番リリース後の運用・障害対応まで一貫して携わった経験  
+
+---
+
+## 🌱 興味・関心
+- 広告・エンタメ・ゲーム業界での開発  
 - UX改善やデザインとの掛け合わせ  
 - イラスト制作 / サウナ / 投資 / 旅行 / ヨガ
