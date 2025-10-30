@@ -70,3 +70,10 @@
 - 広告・エンタメ・ゲーム業界での開発  
 - UX改善やデザインとの掛け合わせ  
 - イラスト制作 / サウナ / 投資 / 旅行 / ヨガ
+
+---
+
+## 🔗 リンク
+- Qiita: [@yosei_ikegami](https://qiita.com/yosei_ikegami)
+
+
