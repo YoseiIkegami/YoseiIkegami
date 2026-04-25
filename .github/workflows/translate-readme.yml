@@ -1,0 +1,38 @@
+name: Translate README
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - "README.ja.md"
+      - "scripts/translate_readmes.py"
+      - ".github/workflows/translate-readme.yml"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  translate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: pip install deep-translator==1.11.4
+
+      - name: Translate README files
+        run: python scripts/translate_readmes.py
+
+      - name: Commit translated files
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "chore: auto-translate README files"
+          file_pattern: README.md README.en.md README.zh-CN.md
