@@ -2,48 +2,48 @@
 
 [日本語](./README.ja.md) | [English](./README.en.md) | [简体中文](./README.zh-CN.md)
 
-I am a full-stack engineer who works across frontend, backend, and cloud.  
-Since April 2026, I have been working as an independent freelancer, handling everything from requirements definition to implementation and production operations for large-scale core systems.  
-My strength is an AI-native development style that uses Claude Code and Cursor in day-to-day professional work.
+A full stack engineer who handles everything from front to backend and cloud.
+Became independent as a freelancer from April 2026. Responsible for all aspects of large-scale core systems, from requirement definition to implementation and actual operation.
+Our strength is our AI-native development style, which uses Claude Code and Cursors on a daily basis.
 
 ---
 
-## 📌 Basic Information
-- **Work Style**: Freelancer (IKG Systems)
-- **Role**: Full-Stack Engineer / Development Lead
-- **Experience**: 4 years (since April 2022)
-- **Location**: Tokyo, Japan
-- **Website**: [ikg-systems.com](https://www.ikg-systems.com/)
-- **Certifications**:
-  - Applied Information Technology Engineer Examination (2023)
-  - AWS Certified Cloud Practitioner (2025)
-  - Fundamental Information Technology Engineer Examination (2022)
+## 📌 Basic information
+- **Type**: Freelance (IKG Systems)
+- **Job type**: Full stack engineer / Development lead
+- **Years of experience**: 4 years (from April 2022)
+- **Based**: Tokyo
+- **HP**: [ikg-systems.com](https://www.ikg-systems.com/)
+- **Qualifications**:
+- Applied Information Engineer (2023)
+- AWS Certified Cloud Practitioner (2025)
+- Basic Information Engineer (2022)
 
 ---
 
-## 💼 Professional Experience
+## 💼 Work history
 
-### Web Systems Development Company (Jul 2024 - Mar 2026)
-**Maintenance and development of a core food logistics platform**
-- **Role**: Development Lead / Full-Stack Engineer
-- **Highlights**:
-  - Led technical decision-making and project progress during a transitional command structure.
-  - Completed a large-scale upgrade from Laravel 7 to 11 and reduced technical debt.
-  - Promoted OrbStack and Cursor adoption to streamline and speed up the team development environment.
-  - Investigated production logs with CloudWatch and enabled quick incident recovery.
+### Web system development company (July 2024 - March 2026)
+**Maintenance and development of food logistics core platform**
+- **Role**: Development Lead / Full Stack Engineer
+- **Achievements**:
+- Leads technical judgment and progress management during transition periods in the chain of command.
+- Completed major upgrade from Laravel 7 to 11 and eliminated technical debt.
+- Promote the introduction of OrbStack / Cursor to make the team's development environment lighter and faster.
+- Leveraging CloudWatch for production environment log investigation and rapid disaster recovery.
 
-### IT Solutions Company (Apr 2022 - Jun 2024)
-**IoT-integrated application development for a major home appliance manufacturer**
-- **Role**: Frontend Engineer / Backend Development
-- **Highlights**:
-  - Improved UI/UX using Angular (TypeScript).
-  - Implemented biometric data visualization from a proprietary vital sensor.
-  - Improved app rating from ★1.7 to ★2.3 through quality and performance improvements.
-  - Won the President's Award in an internal new business contest.
+### IT solution company (April 2022 - June 2024)
+**Development of IoT device collaboration application for major home appliance manufacturers**
+- **Role**: Front-end engineer / Back-end development
+- **Achievements**:
+- Improved UI/UX using Angular (TypeScript).
+- Implemented biological data visualization function from unique vital sensor.
+- Improved app rating from ★1.7 to ★2.3 (quality improvement and performance optimization).
+- Received the "President's Award" in an in-house new business contest.
 
 ---
 
-## 🛠 Skills
+## 🛠 Skillset
 - **Frontend**: TypeScript, React, Angular, JavaScript
 - **Backend**: PHP (Laravel), Python3
 - **Cloud**: AWS (Lambda, API Gateway, CloudWatch, EC2, S3, DynamoDB)
@@ -52,22 +52,22 @@ My strength is an AI-native development style that uses Claude Code and Cursor i
 ---
 
 ## 💡 Strengths
-- **Full-stack problem-solving**  
-  I handle issues end-to-end, from frontend to infrastructure log analysis, and quickly identify and fix high-impact production problems.
-- **Design thinking x engineering**  
-  I leverage design theory to propose and implement solutions that preserve and improve UX.
-- **AI-native development style**  
-  I optimize Claude Code and Cursor for practical workflows to improve both development speed and quality.
+- **Full stack problem solving ability**
+We handle everything from the front desk to infrastructure log investigation. Quickly identify and fix defects that have a large business impact.
+- **Design Thinking × Engineering**
+Utilizing his experience learning design theory, he is good at implementing and making proposals that do not impair UX.
+- **AI-native development style**
+Optimize Claude Code and Cursor for practical use to achieve both development speed and quality.
 
 ---
 
-## 🌱 Interests & Lifestyle
-- **Interests**: Sauna / Yoga / Exploring cakes, coffee, and tea / Illustration / PC games
+## 🌱 Hobbies/Lifestyle
+- **Hobbies**: Sauna / Yoga / Exploration of cake, coffee and tea / Illustration / PC games
 - **Travel**: Solo trip to Malaysia / Diving in Okinawa
 
 ---
 
-## 🔗 Links
+## 🔗 Link
 - **Email**: [yosei@ikg-systems.com](mailto:yosei@ikg-systems.com)
 - **Qiita**: [@yosei_ikegami](https://qiita.com/yosei_ikegami)
 - **Web**: [ikg-systems.com](https://www.ikg-systems.com/)
